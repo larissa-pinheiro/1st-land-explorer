@@ -18,7 +18,7 @@ Como contribuição própria, adicionei o conceito de variáveis CSS e responsiv
 
 ### Links
 
-- URL do site: [Móveis Customizados](https://larissa-pinheiro.github.io/1st-land-explorer/)
+- URL do site: [Móveis Customizados](https://larissa-pinheiro.github.io/explorer-moveis-customizados/)
 
 ### Desktop
 
